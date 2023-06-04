@@ -3,7 +3,7 @@
 - I am intrested in Engineering and will likely major in Computer Science or Electircal Engineering
 - 🌱 I am primarily using Java for my coding projects but am slowly working on C++ on the side.
 - 💞️ I find the more I learn about computer science, electrical systems and mechanical systems, the more interconnected they become. This is very exciting.
-- 📫 
+- 📫 lucas.lassila@outlook.com
 
 <!---
 llassila23/llassila23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
